@@ -22,4 +22,4 @@ jobs:
         with:
           push: true
           platforms: linux/amd64,linux/arm64
-          tags: lixinyi666/vue-demo-docker:latest
+          tags: lixinyi666/vue-demo-docker1:latest
